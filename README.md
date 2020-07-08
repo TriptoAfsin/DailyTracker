@@ -1,4 +1,4 @@
-##TriptoVity
+<h1>TriptoVity</h1>
 
 <b>A simple python script that tracks your daily task and represents them in bar graphs</b>
 
